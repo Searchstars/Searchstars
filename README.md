@@ -36,11 +36,7 @@ GTAOL纪狗，vape挂雨庭带师，一个因使用UTF8编码而锟斤拷烫烫�
 #
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Searchstars">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Searchstars&show_icons=true&hide_border=true&icon_color=000&title_color=000&include_all_commits_disable=false&count_private=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Searchstars&show_icons=true&hide_border=false&icon_color=000&title_color=000&include_all_commits_disable=false&count_private=true">
 
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Searchstars&theme=xcode" align="center" alt="Github Activity" />
-
-<iframe src="//player.bilibili.com/player.html?aid=637745808&bvid=BV1RY4y1q7UD&cid=562749407&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-我tm谢谢你，再洗脑一次奥😅
