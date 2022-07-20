@@ -30,7 +30,7 @@ GTAOL纪狗，vape挂雨庭带师，一个因使用UTF8编码而锟斤拷烫烫�
 ## 🌐 Website / Blog
 - Coming Soon
 ## ⏺️ 重点开源项目
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Stargazing-studio&repo=System-Init-Toolbox&theme=buefy" /><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Searchstars&repo=Leekcutter&theme=buefy" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Stargazing-studio&repo=System-Init-Toolbox&theme=buefy" />
 
 #
 
